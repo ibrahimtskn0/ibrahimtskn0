@@ -1,48 +1,47 @@
-# 👋 Merhaba! Ben Feas
+# Hi, I'm İbrahim Taşkın! 👋
+### Front-End Developer & Custom Widget Specialist
 
-🎓 Bilgisayar Programcılığı öğrencisiyim. Kod yazmayı, sistemleri kurcalamayı ve sürekli yeni şeyler öğrenmeyi seviyorum.  
-
----
-
-## 🌐 Sosyal Medya
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahim-taşkın-5ab2922a7)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ibrahimtskn0)
+<p align="left">
+  <a href="mailto:[E-POSTA_ADRESİN]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/[LINKEDIN_KULLANICI_ADIN]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
 ---
 
-## 🚀 Teknoloji Yığını (Tech Stack)
+## 🚀 About Me
+I am a passionate **Front-End Developer** specializing in creating interactive user interfaces, dynamic web solutions, and custom widgets for streaming platforms (Kick/Twitch). I focus on writing clean, modular, and pixel-perfect code to turn designs into reality.
 
-**Backend:**  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-
-**Frontend:**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Mobil:**  
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-
-**Diğer:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+- 🛠️ Currently building custom widgets and interactive UI tools.
+- 👨‍💻 Doing freelance projects for global clients.
+- 🎯 Goal: Elevating user experience through modern web technologies.
 
 ---
 
-## 📊 GitHub İstatistikleri
+## 🛠️ Tech Stack & Tools
 
-![Feas'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=Feastskn07&show_icons=true&theme=tokyonight)
+### 🌐 Front-End Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-![En Çok Kullanılan Diller](https://github-readme-stats.vercel.app/api/top-langs/?username=Feastskn07&layout=compact&theme=tokyonight)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Feastskn07&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+### ⚙️ Automation & Tools
+![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-> _"sorry github I haven't looked at you for a while :|"_  
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=feastskn&show_icons=true&theme=tokyonight&count_private=true" alt="İbrahim's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feastskn&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+</p>
+
+---
+<p align="center">
+  <i>"Simplicity is the ultimate sophistication."</i>
+</p>
